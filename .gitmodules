@@ -1,0 +1,3 @@
+[submodule "src/fcodelab"]
+	path = src/fcodelab
+	url = https://github.com/GuohuaZhuang/fcodelab.git
